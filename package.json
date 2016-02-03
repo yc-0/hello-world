@@ -2,6 +2,7 @@
   "name": "helloWorldTwo",
   "version": "0.0.3",
   "private": true,
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
@@ -16,8 +17,7 @@
     "mongodb":"*"
   },
   "engines": {
-    "node": "0.10.7",
-    "npm": "1.3.x"
+    "node": "0.12.7",
   },
   "license": "BSD-3-Clause"
 }
